@@ -46,3 +46,10 @@ This project is a job posting application built with Next.js, Tailwind CSS, and 
    npm run dev
    ```
 4. Open http://localhost:3000 with your browser to see the result.
+
+# screenshots
+https://github.com/Abdidawud/Task-8/blob/main/public/asset/photo_2024-08-11_15-04-57.jpg
+
+https://github.com/Abdidawud/Task-8/blob/main/public/asset/photo_2024-08-11_15-05-20.jpg
+
+https://github.com/Abdidawud/Task-8/blob/main/public/asset/photo_2024-08-11_15-05-28.jpg
